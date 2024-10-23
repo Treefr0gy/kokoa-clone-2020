@@ -9,3 +9,13 @@
     color: white;
     font-weight: 600;
 }
+
+.badge-dot {
+    background-color: tomato;
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+    position: absolute;
+    left: 25px;
+    bottom: 25px;
+}
