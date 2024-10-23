@@ -19,3 +19,17 @@
     left: 15px;
     bottom: 15px;
 }
+
+.badge-warning {
+    width: 16px;
+    height: 16px;
+    border: 1px solid tomato;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: tomato;
+    position: absolute;
+    left: 115px;
+    bottom: 0px;
+}
