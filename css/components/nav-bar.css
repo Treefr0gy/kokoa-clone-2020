@@ -21,3 +21,9 @@
     left: 15px;
     bottom: 15px;
 }
+
+.nav__dot {
+    position: absolute;
+    left: 25px;
+    bottom: 25px;
+}
