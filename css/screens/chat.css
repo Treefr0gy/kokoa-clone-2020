@@ -209,7 +209,3 @@
 .reply:focus-within {
     transform: translateY(80px);
 }
-
-.message__bubble:hover {
-    opacity: 0.8;
-}
